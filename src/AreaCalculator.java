@@ -18,7 +18,7 @@ class AreaCalculator {
     }
 }
 
-public class Main {
+public class AreaCalculator {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
